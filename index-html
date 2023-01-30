@@ -4,6 +4,14 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width">
     <title>Hola món!</title>
+    <style>
+           .parraf-1{color:blue}
+           .parraf-2{color:red}
+           .parraf-1{color:yellowgreen}
+
+
+
+    </style>
     <h1>Aquesta és la meva primera web</h1>
     <p><strong>Bernat Fabregó</strong>, alumne de primer de batxilerat a l'institut de Taradell</p>
     <p>Soc un apasionat per la programació i els esports , entre ells destacaria el futbol i el bàsquet</p>
