@@ -8,7 +8,7 @@
            .parraf-1{color:blue}
            .parraf-2{color:red}
            .parraf-1{color:yellowgreen}
-
+           .h1{color: chartreuse; size: 50px;}
 
 
     </style>
