@@ -1,9 +1,25 @@
 .parraf-1{
 color: black;
 font: 1em sans-serif;
+size: 15px;
+
 }
 .h1{
 size: 30px;
 color:  hotpink;
 
+}
+.parraf-2{
+
+    color: aqua;
+    font: 1em sans-serif;
+    size: 15px;
+    
+}
+.parraf-3{
+
+    color: aqua;
+    font: 1em sans-serif;
+    text-align: center;
+    size: 15px;
 }
