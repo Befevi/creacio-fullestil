@@ -3,7 +3,7 @@ html {
     font-family: 'Times New Roman', Times, serif;
 }
 .parraf-1{
-color: black;
+color: rgb(221, 9, 9);
 size: 15px;
 
 }
@@ -14,14 +14,14 @@ color:  hotpink;
 }
 .parraf-2{
 
-    color: aqua;
+    color: rgb(65, 1, 214);
    
     size: 15px;
     
 }
 .parraf-3{
 
-    color: aqua;
+    color: rgb(0, 177, 88);
     text-align: center;
     size: 15px;
 }
